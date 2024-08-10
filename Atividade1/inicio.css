@@ -1,0 +1,19 @@
+body{
+    font-family: monospace;
+    text-align: center;
+    margin: 0;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    font-size: large;
+    background-color: gray;
+    color: ghostwhite;
+}
+
+img{
+    width: 200px;
+    border-radius: 150px;
+}
